@@ -1,8 +1,3 @@
 
-# deep learning action
 
-
-- NLP
-
-
-- tensorflow_learning
+NLP tutorials
